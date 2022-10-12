@@ -1,0 +1,5 @@
+    font-family: 'Alata', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Rajdhani', sans-serif;
